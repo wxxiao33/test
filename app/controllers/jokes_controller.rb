@@ -5,4 +5,3 @@ class JokesController < ApplicationController
     render html: joke.body
   end
 end
-If we start our 
